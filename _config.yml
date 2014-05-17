@@ -1,0 +1,10 @@
+# Site settings
+title: Toby Kurien
+#email: your-email@domain.com
+description: "Toby Kurien's GitHub Page"
+baseurl: ""
+url: "http://tobykurien.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
